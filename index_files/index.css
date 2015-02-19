@@ -1,0 +1,60 @@
+.Information {
+    color: #000000;
+    font-family: 'Cochin', 'Times New Roman', 'serif';
+    font-size: 14pt;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 17pt;
+    margin-bottom: 0pt;
+    margin-left: 47.7pt;
+    margin-right: 0pt;
+    margin-top: 0pt;
+    opacity: 1.00;
+    padding-bottom: 7pt;
+    padding-top: 0pt;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -47.7pt;
+    text-transform: none;
+}
+.Title {
+    color: #d9682a;
+    font-family: 'BodoniSvtyTwoSCITCTT-Book', 'Bodoni 72 Smallcaps', 'Bodoni 72 Smallcaps Book';
+    font-size: 80pt;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing:    -0.01em;
+    line-height: 86.4pt;
+    margin-bottom: 0pt;
+    margin-left: 0pt;
+    margin-right: 0pt;
+    margin-top: 0pt;
+    opacity: 1.00;
+    padding-bottom: 0pt;
+    padding-top: 0pt;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0pt;
+    text-transform: none;
+}
+.Normal_22 {
+    width: 482.4pt;
+}
+.graphic_shape_style_default {
+    background: #f9f5dd;
+    border: 1pt #000000 dashed;
+    float: none;
+    margin: 0pt;
+    opacity: 1.00;
+}
+div {
+    overflow: visible;
+}
+img {
+    border: none;
+}
+.searchtext {
+}
