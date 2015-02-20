@@ -1,33 +1,75 @@
-.Information {
-    color: #000000;
-    font-family: 'Cochin', 'Times New Roman', 'serif';
-    font-size: 14pt;
+.Body {
+    color: #ffffff;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', 'sans-serif';
+    font-size: 9pt;
     font-style: normal;
     font-variant: normal;
     font-weight: normal;
     letter-spacing: 0;
-    line-height: 17pt;
+    line-height: 9.9pt;
     margin-bottom: 0pt;
-    margin-left: 47.7pt;
+    margin-left: 0pt;
     margin-right: 0pt;
     margin-top: 0pt;
     opacity: 1.00;
-    padding-bottom: 7pt;
+    padding-bottom: 0pt;
     padding-top: 0pt;
     text-align: left;
     text-decoration: none;
-    text-indent: -47.7pt;
+    text-indent: 0pt;
+    text-transform: none;
+}
+.Sub_heading {
+    color: #ffffff;
+    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', 'sans-serif';
+    font-size: 9pt;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 9.9pt;
+    margin-bottom: 0pt;
+    margin-left: 0pt;
+    margin-right: 0pt;
+    margin-top: 0pt;
+    opacity: 1.00;
+    padding-bottom: 0pt;
+    padding-top: 0pt;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0pt;
+    text-transform: none;
+}
+.Sub_title {
+    color: #9d9f9f;
+    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', 'sans-serif';
+    font-size: 24pt;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 11.6pt;
+    margin-bottom: 0pt;
+    margin-left: 0pt;
+    margin-right: 0pt;
+    margin-top: 0pt;
+    opacity: 1.00;
+    padding-bottom: 0pt;
+    padding-top: 0pt;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0pt;
     text-transform: none;
 }
 .Title {
-    color: #d9682a;
-    font-family: 'BodoniSvtyTwoSCITCTT-Book', 'Bodoni 72 Smallcaps', 'Bodoni 72 Smallcaps Book';
-    font-size: 80pt;
+    color: #9d9f9f;
+    font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue', 'Helvetica Neue UltraLight', 'Arial', 'sans-serif';
+    font-size: 72pt;
     font-style: normal;
     font-variant: normal;
     font-weight: normal;
-    letter-spacing:    -0.01em;
-    line-height: 86.4pt;
+    letter-spacing: 0;
+    line-height: 50.4pt;
     margin-bottom: 0pt;
     margin-left: 0pt;
     margin-right: 0pt;
@@ -41,11 +83,18 @@
     text-transform: none;
 }
 .Normal_22 {
-    width: 482.4pt;
+    width: 720pt;
 }
 .graphic_shape_style_default {
-    background: #f9f5dd;
-    border: 1pt #000000 dashed;
+    background: #000000;
+    border: 1pt #ffffff solid;
+    float: none;
+    margin: 0pt;
+    opacity: 1.00;
+}
+.graphic_textbox_style_default {
+    background: transparent;
+    border: 1pt #000000 none;
     float: none;
     margin: 0pt;
     opacity: 1.00;
